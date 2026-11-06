@@ -1,1 +1,24 @@
-
+site_name: Reforma Tributária nas compras públicas
+site_description: 8 cuidados para preparar as compras públicas para a Reforma Tributária
+site_author: Secretaria de Gestão e Inovação
+# Configuração do tema adotado nos tutoriais da Seges.
+theme:
+  name: readthedocs
+  highlightjs: false
+  navigation_depth: 2
+  include_homepage_in_sidebar: true
+nav:
+  - 8 cuidados para a Reforma Tributária: index.md
+extra_css:
+  - custom.css
+  - css/extra.css
+  - css/print.css
+extra_javascript:
+  - js/custom.js
+  - js/font-size.js
+markdown_extensions:
+  - admonition
+  - attr_list
+plugins:
+  - search:
+      lang: pt
