@@ -1,12 +1,15 @@
-<div class="text-controls" aria-label="Opções de leitura" style="display:flex;justify-content:flex-end;align-items:center;gap:8px;flex-wrap:wrap;margin:10px 0 24px;">
-  <span class="text-controls-label" style="font-size:14px;color:#555;font-weight:bold;">Tamanho do texto:</span>
-  <button type="button" onclick="diminuirFonte()" title="Diminuir texto">A−</button>
-  <button type="button" onclick="resetarFonte()" title="Tamanho normal">A</button>
-  <button type="button" onclick="aumentarFonte()" title="Aumentar texto">A+</button>
-  <button type="button" class="btn-print" onclick="window.print()">🖨️ Imprimir ou baixar esta página</button>
+<div style="display: flex; justify-content: flex-end; align-items: center; gap: 8px; margin: 10px 0;">
+ <span style="font-size: 14px; color: #555; font-weight: bold;">Tamanho do texto:</span>
+ <button onclick="diminuirFonte()" title="Diminuir texto" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A-</button>
+ <button onclick="resetarFonte()" title="Tamanho normal" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A</button>
+ <button onclick="aumentarFonte()" title="Aumentar texto" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A+</button>
+ 
+ <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2); margin-left: 10px;">
+ 🖨️ Imprimir ou baixar esta página
+ </button>
 </div>
 
-# 8 cuidados para preparar as compras públicas para a Reforma Tributária
+# Oito cuidados para preparar as compras públicas para a Reforma Tributária
 
 A Reforma Tributária traz mudanças que podem afetar o planejamento, a formação de preços e a execução dos contratos públicos. Confira oito cuidados que podem ajudar os órgãos e entidades a se preparar para a transição.
 
