@@ -62,3 +62,10 @@ A prestação do serviço ou o fornecimento do bem, a medição, o aceite, a emi
 ## Saiba mais
 
 Para conhecer outras orientações sobre os efeitos da Reforma Tributária nas compras públicas, consulte os materiais disponibilizados pela Secretaria de Gestão e Inovação (Seges) na página dedicada ao tema.
+
+<div style="text-align: right; margin: 20px 0;">
+ <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+ 🖨️ Imprimir esta página
+ </button>
+</div>
+
