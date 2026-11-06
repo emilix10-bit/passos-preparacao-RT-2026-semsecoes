@@ -25,7 +25,7 @@ Descreva com clareza os serviços, materiais e demais insumos envolvidos na cont
 
 A composição do preço pode variar conforme o regime tributário do licitante e as características da operação. Por isso, mantenha registradas as informações tributárias relevantes para a análise das propostas. Quando necessário, avalie a participação das áreas especializadas.
 
-## 4. Mapeie os contratos vigentes, inclusive os que estão sem dedicação exclusiva de mão de obra.
+## 4. Mapeie os contratos vigentes.
 
 Identifique os contratos em andamento, inclusive aqueles sem dedicação exclusiva de mão de obra.
 
