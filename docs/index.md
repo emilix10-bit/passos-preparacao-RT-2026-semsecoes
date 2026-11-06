@@ -41,11 +41,11 @@ Nas contratações decorrentes dessas atas, avalie a vantajosidade conforme as c
 
 Nos fornecimentos com entrega imediata, considere a data e as condições da operação. Esse cuidado é especialmente importante quando a contratação, a entrega, o faturamento e o pagamento ocorrem em momentos diferentes da transição.
 
-## 6. Nos contratos com dedicação exclusiva de mão de obra, analise a PCFP além das rubricas tributárias.
+## 6. Nos contratos com dedicação exclusiva de mão de obra, analise a Planilha de Custos e Formação de Preços (PCFP) além das rubricas tributárias.
 
 Nos contratos com dedicação exclusiva de mão de obra, a análise deve considerar toda a composição do preço, e não apenas as rubricas de tributos. A mudança vai além da substituição de PIS e Cofins pela Contribuição sobre Bens e Serviços (CBS) e da transição para o Imposto sobre Bens e Serviços (IBS). Considere também os materiais e insumos, os tratamentos tributários aplicáveis e os possíveis efeitos dos créditos tributários.
 
-**A Planilha de Custos e Formação de Preços (PCFP) precisará ser adequada às novas regras, mesmo que o valor total do contrato não mude.**
+**A PCFP precisará ser adequada às novas regras, mesmo que o valor total do contrato não mude.**
 
 ## 7. Prepare os fluxos de gestão contratual e as equipes envolvidas.
 
